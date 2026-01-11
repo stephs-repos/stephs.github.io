@@ -1,0 +1,60 @@
+# Jekyll Configuration for GitHub Pages
+
+title: Steph's Blog
+description: >-
+  A personal blog about technology, ideas, and creative pursuits.
+author: Steph
+email: steph@example.com
+url: "https://stephs.github.io"
+baseurl: "" # Leave empty for user/org pages
+
+# GitHub Pages theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    default_lang: plaintext
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from build
+exclude:
+  - .devcontainer
+  - .claude
+  - .github
+  - .markdownlint.json
+  - .prettierrc
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Pagination
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Steph"
+
+# Social links (for minima theme)
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/stephs" }
