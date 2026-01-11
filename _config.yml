@@ -1,12 +1,9 @@
 # Jekyll Configuration for GitHub Pages
 
 title: Steph's Blog
-description: >-
-  A personal blog about technology, ideas, and creative pursuits.
 author: Steph
-email: steph@example.com
-url: "https://stephs-repos.github.io"
-baseurl: "" # Empty for user/org root pages
+url: 'https://stephs-repos.github.io'
+baseurl: '' # Empty for user/org root pages
 
 # GitHub Pages theme
 theme: minima
@@ -43,18 +40,18 @@ exclude:
 
 # Pagination
 paginate: 10
-paginate_path: "/page/:num/"
+paginate_path: '/page/:num/'
 
 # Default front matter
 defaults:
   - scope:
-      path: ""
-      type: "posts"
+      path: ''
+      type: 'posts'
     values:
-      layout: "post"
-      author: "Steph"
+      layout: 'post'
+      author: 'Steph'
 
 # Social links (for minima theme)
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/stephs" }
+    - { platform: github, user_url: 'https://github.com/stephs' }
