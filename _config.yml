@@ -6,7 +6,7 @@ description: >-
 author: Steph
 email: steph@example.com
 url: "https://stephs-repos.github.io"
-baseurl: "/stephs.github.io" # Repo name for project pages
+baseurl: "" # Empty for user/org root pages
 
 # GitHub Pages theme
 theme: minima
