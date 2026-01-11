@@ -12,7 +12,9 @@ The more important shift is how AI can be used to deliver services more effectiv
 
 > AI appears to be the first real innovation that changes the economics of tackling legacy debt since, well, *never*, that holds some hope of breaking some old, long-established barriers.
 
+
 ---
+
 
 ## What is Agentic Coding?
 
@@ -33,7 +35,9 @@ Examples include:
 
 They become noticeably more capable every week. If you've never seen it used in a real project, it's easy to assume it's just a slightly better version of what we already had. It isn't. **It changes the economics of delivery** in a way that has profound downstream effects on planning, risk, and outcomes.
 
+
 ---
+
 
 ## The Momentum Advantage
 
@@ -55,7 +59,9 @@ With agentic coding, the cost of learning from feature experiments becomes cheap
 
 That changes behaviour. It makes it easier to test assumptions early, before they harden into commitments, and it shortens the gap between "we should improve this" and "here's a working version we can evaluate."
 
+
 ---
+
 
 ## Finally Tackling Technical Debt
 
@@ -83,7 +89,9 @@ Agentic tools, used well, can help build that understanding faster by:
 
 It doesn't eliminate risk, but it can **reduce the cost of doing the right thing**, which is often what makes modernization possible in the first place.
 
+
 ---
+
 
 ## The Public Sector Reality
 
@@ -98,7 +106,9 @@ In that world, the ability to move quickly isn't about shipping more features fo
 
 It's also about creating space for the kind of careful, incremental modernization that everyone agrees is necessary but rarely has enough oxygen.
 
+
 ---
+
 
 ## The Value of Your Experienced People
 
@@ -127,7 +137,9 @@ They know how to ask the right questions that bridge the tech to business outcom
 
 > In other words, they keep the AI from turning your code base into an episode of *This Old House*.
 
+
 ---
+
 
 ## Choosing the Right Vendors
 
@@ -139,7 +151,9 @@ Find the nimble ones who have already adapted to the agentic coding era and can 
 
 Their bench needs to consist of **experienced talent, not junior developers**. They should be able to deliver faster, and you should be able to conserve budget.
 
+
 ---
+
 
 ## A Reality Check
 
@@ -173,7 +187,9 @@ The tool can generate a lot, but it can also generate confusion if nobody is ste
 
 *But that's as of 9 o'clock this morning, and at the current rate of evolution, I'd be surprised if a lot of these limitations still exist in six months.*
 
+
 ---
+
 
 ## The Real Leadership Question
 
