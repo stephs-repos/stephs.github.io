@@ -29,7 +29,7 @@ Examples include:
 - Windsurf
 - GitHub Copilot Agent
 
-They become noticeably more capable every week. If you've never seen it used in a real project, it's easy to assume it's just a slightly better version of what we already had. It isn't. **It changes the economics of delivery** in a way that has profound downstream effects on planning, risk, and outcomes.
+These tools become noticeably more capable every week. If you've never seen it used in a real project, it's easy to assume it's just a slightly better version of what we already had. It isn't. **It changes the economics of delivery** in a way that has profound downstream effects on planning, risk, and outcomes.
 
 ## The Momentum Advantage
 
@@ -47,7 +47,7 @@ Eventually, teams stop proposing improvements because they know how the story en
 
 With agentic coding, the cost of learning from feature experiments becomes cheap. You can quickly prototype a change, see what breaks, understand the implications, and either keep it or throw it away—without feeling like you just threw a bucket of cash on the street and set it on fire.
 
-> Rather than waiting days to see changes, you can sometimes get down to minutes.
+> Rather than waiting days to see changes, you can get closer to minutes.
 
 That changes behaviour. It makes it easier to test assumptions early, before they harden into commitments, and it shortens the gap between "we should improve this" and "here's a working version we can evaluate."
 
@@ -57,6 +57,7 @@ Too many organizations have systems that are brittle, poorly documented, maybe e
 
 - The original authors are gone
 - The test coverage is thin
+- The documentation is outdated
 - The knowledge is tribal
 
 In that situation, the first barrier isn't "can we fix it?" but rather, **"abandon all hope, ye who enter here."**
@@ -92,7 +93,7 @@ It's also about creating space for the kind of careful, incremental modernizatio
 
 ## The Value of Your Experienced People
 
-The shift to agentic coding highlights the value of experienced staff developers and architects who already understand your environment. **Organizations that benefit most will be those that have this resident talent.**
+The shift to agentic coding highlights the value of experienced staff developers and architects who already understand your environment. **Organizations that benefit most will be those that have managed to retain this resident talent.**
 
 They understand:
 
@@ -123,9 +124,9 @@ Rare or lucky are the few who have managed to retain these in-house experts over
 
 You need to think of them as **the commodity-level resource that they are**. They will never know your domain like you do, but can be a reasonable fallback.
 
-Find the nimble ones who have already adapted to the agentic coding era and can demonstrably prove it. It's not a stretch to partially score RFP respondents on their ability to generate a prototype implementation of some feature subset in real time, right before your eyes.
+Find the nimble ones who have already adapted to the agentic coding era and can demonstrably prove it. It's not a stretch to partially score RFP respondents on their ability to generate a prototype implementation of some feature in real time, right before your eyes.
 
-Their bench needs to consist of **experienced talent, not junior developers**. They should be able to deliver faster, and you should be able to conserve budget.
+Their bench needs to consist of **experienced talent, not junior developers**. They *should* be able to deliver faster, and you *should* be able to conserve budget.
 
 ## A Reality Check
 
@@ -140,7 +141,7 @@ I regularly need to tell it things like:
 
 Often I'll push back on the AI's recommendation for some design decision, and I'll get some version of *"Oh yeah, right, that is actually a better idea, let me go off and implement..."*
 
-These types of issues become more common as the code base grows or has a proliferation of different modules. At times it can feel like trying to rationalise with your teenager. Despite arguing with absolute conviction, their context window, quite literally, does not contain enough information, so **you have to be the parent**—make sure they don't blow up your house.
+At times it can feel like trying to rationalize with your teenager. Despite arguing with absolute conviction, their context window, quite literally, does not contain enough information, so **you have to be the parent**—make sure they don't blow up your house. These types of issues become more common as the code base grows or has a proliferation of different modules.
 
 <figure style="text-align: center;">
   <img src="/assets/images/no_touch.png" alt="Old systems in government" style="display: block; margin: 0 auto;">
